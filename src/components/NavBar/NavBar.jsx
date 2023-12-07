@@ -8,3 +8,5 @@ export default function NavBar() {
 		</div>
 	)
 }
+
+// open all links in new tabs. linkedin, github, resume pdf somewhere, maybe navigation to the all of the other components
